@@ -2,7 +2,7 @@
 
 ### Week 2 Pair Homework Project
 
-### OverView
+### Overview
 
 ### How to Play
 
