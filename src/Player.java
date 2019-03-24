@@ -1,6 +1,5 @@
 
 public class Player extends GameCharacter{
-	private int maxHealth = 100;
 	private int socialPoints;
 	
 	public Player(String name, int socialPoints, int health) {
@@ -8,9 +7,6 @@ public class Player extends GameCharacter{
 		this.socialPoints = socialPoints;
 	}
 	
-	public int getMaxHealth() {
-		return maxHealth;
-	}
 	public int getSocialPoints() {
 		return socialPoints;
 	}

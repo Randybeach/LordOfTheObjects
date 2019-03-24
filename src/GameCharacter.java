@@ -3,9 +3,6 @@ public class GameCharacter {
 	private int health;
 	private String name;
 
-	public GameCharacter(int health) {
-		this.health = health;
-	}
 
 	public GameCharacter(String name, int health) {
 		this.name = name;
